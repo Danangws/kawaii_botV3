@@ -1,5 +1,5 @@
 let handler = function (m) {
-	this.sendContact(m.chat, '6285712420674', 'Owner NekoBotz :)', m)
+	this.sendContact(m.chat, '6285715590172', 'Owner Kawaii_botz™√ :)', m)
 }
 
 handler.customPrefix = ['🍭Owner Kannabot'] 
