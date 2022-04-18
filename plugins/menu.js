@@ -12,7 +12,7 @@ const chats = conn.chats.all()
 const groups = chats.filter(v => v.jid.endsWith('g.us'))
  
 const defaultMenu = {
-  before: `───────━⃝┅ *D A S H B O A R D* ┅⃝━───────
+  before: `───────━⃝┅ *K A W A I I _ B O T Z ™ ✓* ┅⃝━───────
   
                「 *U S E R* 」
 🎐 *Name:* %name
