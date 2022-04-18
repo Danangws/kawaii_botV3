@@ -5,13 +5,13 @@ let handler = async (m, { conn }) => {
 
 let str = `››╭─〘 *Donasi* 〙
 ╭╡
-│┝‷✧ *Pulsa:* 6285712420674
-│┝‷✧ *Dana:* 6285712420674
-│┝‷✧ *Linkaja:* 6285712420674
-│┝‷✧ *Gopay:* 6285712420674
-│┝‷✧ *Ovo:* 6285712420674
+│┝‷✧ *Pulsa:* 6285715590172
+│┝‷✧ *Dana:* 6285715590172
+│┝‷✧ *Linkaja:* 6285715590172
+│┝‷✧ *Gopay:* 6285715590172
+│┝‷✧ *Ovo:* 6285715590172
 │╰───···─────
-│⁺◛˖ Ingin Donasi? Chat nomor dibawah
+│⁺◛˖ Ingin Donasi? Chat : wa.me/6285715590172
 ╰──────────···───╮`
 let name = await conn.getName(m.sender)
 
@@ -31,7 +31,7 @@ let fkon = { key: { fromMe: false, participant: `0@s.whatsapp.net`, ...(m.chat ?
         "descriptionCount": "999999999",
         "productImageCount": "1",
       },
-      "businessOwnerJid": "62831433937633@s.whatsapp.net",
+      "businessOwnerJid": "6282125363557@s.whatsapp.net",
       "contextInfo": {
         "forwardingScore": 9999,
         "isForwarded": false
